@@ -1,1 +1,3 @@
-# jsosna.github.io
+# JSosna
+
+## Support: jakub.sosna@icloud.com
